@@ -1,8 +1,5 @@
 //Projeto IRRIGADOR INTELIGENTE
 
-//Álex Felipe Santos Melo
-//José Wallas Cruz da Silva
-
 #include <LiquidCrystal_I2C.h>  // Biblioteca utilizada para fazer a comunicação com o display
 #include <EEPROM.h>            // Biblioteca para o uso da memória EEPROM
 
